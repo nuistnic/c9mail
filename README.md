@@ -9,7 +9,7 @@ C9高校邮件系统情况
 | 浙大   | 自建Coremail @zju.edu.cn 20G | 同左 | 不变，还有个 mail.zuaa.zju.edu.cn |
 | 复旦   | 自建Coremail @fudan.edu.cn | | |
 | 上交   | 自建 @sjtu.edu.cn 10G | 同左，5G | |
-| 南大   | 自建Coremail @nju.edu.cn | 自建Coremail @smail.nju.edu.cn | |
+| 南大   | 托管到腾讯，@nju.edu.cn | 托管到腾讯，@smail.nju.edu.cn | |
 | 科大   | 自建Coremail @ustc.edu.cn 8G | 自建Coremail @mail.ustc.edu.cn 500M | 不变 50MB，还有个 @ustc.edu |
 | 哈工大 | 自建Coremail @hit.edu.cn | 自建Coremail @stu.hit.edu.cn | |
 | 西交   | 自建Coremail @xjtu.edu.cn | 自建Coremail @xjtu.edu.cn | |
