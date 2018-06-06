@@ -12,4 +12,4 @@ C9高校邮件系统情况
 | 南大   | 托管到腾讯，@nju.edu.cn | 托管到腾讯，@smail.nju.edu.cn | |
 | 科大   | 自建Coremail @ustc.edu.cn 8G | 自建Coremail @mail.ustc.edu.cn 500M | 不变 50MB，还有个 @ustc.edu |
 | 哈工大 | 自建Coremail @hit.edu.cn | 自建Coremail @stu.hit.edu.cn | |
-| 西交   | 自建Coremail @xjtu.edu.cn | 自建Coremail @xjtu.edu.cn | |
+| 西交   | 自建Coremail @xjtu.edu.cn | 自建Coremail @stu.xjtu.edu.cn | |
