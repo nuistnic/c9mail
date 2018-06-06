@@ -1,11 +1,6 @@
 C9高校邮件系统情况
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 |  学校    | 教工邮件   |  学生邮件      |  校友邮件 |
 | -------- | ---------- | -------------- | -------   |
