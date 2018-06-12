@@ -13,3 +13,4 @@ C9高校邮件系统情况
 | 科大   | 自建Coremail @ustc.edu.cn 8G | 自建Coremail @mail.ustc.edu.cn 500M | 不变 50M，还有个 @ustc.edu |
 | 哈工大 | 自建Coremail @hit.edu.cn | 自建Coremail @stu.hit.edu.cn | |
 | 西交   | 自建Coremail @xjtu.edu.cn | 自建Coremail @stu.xjtu.edu.cn 5G | |
+| 南信大 | 自建coremail @nuist.edu.cn | 同左 |
